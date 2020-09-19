@@ -266,22 +266,104 @@
   background-color: yellow;
 }
 .box36{
-  width: 74px;
+  width: 58px;
   height: 40px;
   background-color:dodgerblue ;
 }
 .box37{
-  width: px;
-  height: px;
+  width: 25px;
+  height: 40px;
   background-color: yellow;
 }
 .box38{
-  width: 74px;
+  width: 58px;
   height: 40px;
   background-color:dodgerblue ;
 }
 .box39{
-  widows: 5px;
-  height: px;
+  width: 25px;
+  height: 40px;
   background-color: yellow ;
+}
+.box40{
+  width: 58px;
+  height: 40px;
+  background-color:dodgerblue ;
+}
+.box41{
+  width: 25px;
+  height: 40px;
+  background-color: yellow;
+}
+.box42{
+  width: 58px;
+  height: 40px;
+  background-color:dodgerblue ;
+}
+.box43{
+  width: 25px;
+  height: 40px;
+  background-color: yellow ;
+}
+.box44{
+  width: 58px;
+  height: 40px;
+  background-color:dodgerblue ;
+}
+.box45{
+  width: 390px;
+  height: 20px;
+  background-color: yellow;
+}
+.box46{
+  width: 30px;
+  height: 150px;
+  background-color: yellow;
+}
+.box47{
+  width: 30px;
+  height: 150px;
+  background-color: green;
+}
+.box48{
+  width: 90px;
+  height: 30px;
+  background-color: green;
+}
+.box49{
+  width: 30px;
+  height: 150px;
+  background-color: green;
+}
+.box50{
+  width: 90px;
+  height: 90px;
+  background-color: dodgerblue
+}
+.box51{
+  width: 90px;
+  height: 30px;
+  background-color: green;
+}
+
+
+
+
+
+.tas1{
+  width: 900px;
+  height: 900px;
+  position: relative;
+  background-color: blue;
+}
+.tas2{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin:auto;
 }
